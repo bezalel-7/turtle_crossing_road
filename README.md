@@ -7,7 +7,7 @@ It 's a simple game in python , where turtle crosses road of traffic!!
 ## Running the application
 Download the source code from the repository and run the file just as any other Python script (.py) file.  
  
-# sample shots(screenshots)
+#sample shots(screenshots)
 
 ![1]()
 *active game start*
