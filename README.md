@@ -1,7 +1,8 @@
 # turtle_crossing_road
-It 's a simple game in python , where turtle crosses road of traffic!!
+It 's a simple game in python , where turtle crosses road of traffic!!,
+as level increases speed of the traffic increases.
 
-# controls
+#controls
  up key for forward 
  
 ## Running the application
@@ -9,15 +10,15 @@ Download the source code from the repository and run the file just as any other 
  
 #sample shots(screenshots)
 
-![1]()
+![1](https://github.com/varadudi/turtle_crossing_road/blob/main/Screenshot1.png)
 *active game start*
 
 
-![2]()
+![2](https://github.com/varadudi/turtle_crossing_road/blob/main/Screenshot2.png)
 *end of the game*
 
 
-![3]()
+![3](https://github.com/varadudi/turtle_crossing_road/blob/main/Screenshot3.png)
 *different level*
 
 
